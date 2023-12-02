@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ejemplo entornos java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejemplo_entornos_java_jar</output-path>
+    <root id="archive" name="Ejemplo entornos java.jar">
+      <element id="module-output" name="Ejemplo entornos java" />
+    </root>
+  </artifact>
+</component>
